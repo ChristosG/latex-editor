@@ -14,3 +14,4 @@ User can save their work to a latex file.
 User can select to undo to a previous action.
 
 User can select to redo to a following action.
+
